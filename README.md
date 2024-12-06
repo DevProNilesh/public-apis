@@ -1397,6 +1397,8 @@ API | Description | Auth | HTTPS | CORS |
 | [Unsplash](https://unsplash.com/developers) | Photography | `OAuth` | Yes | Unknown |
 | [Wallhaven](https://wallhaven.cc/help/api) | Wallpapers | `apiKey` | Yes | Unknown |
 | [Webdam](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) | Images | `OAuth` | Yes | Unknown |
+| [TheToolx.com](https://www.thetoolx.com/) | Images | apikey | Yes| Unknown |
+| [TheMoviesz.com](https://www.themoviesz.com) | Movies | apikey | Yes| Unknown |
 
 **[⬆ Back to Index](#index)**
 <br >
